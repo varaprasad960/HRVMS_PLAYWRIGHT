@@ -1,0 +1,5 @@
+You have no Personal Leave balance. Do you still want to submit this as Loss of Pay (LOP)?
+confirm
+
+                        Leave can be applied for last 10 days.
+                    

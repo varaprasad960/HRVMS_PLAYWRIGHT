@@ -1,0 +1,3 @@
+[Function: getByAltText]
+You have no Casual Leave balance. Do you still want to submit this as Loss of Pay (LOP)?
+confirm
